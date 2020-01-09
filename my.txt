@@ -1,3 +1,5 @@
 www.busdmm.cloud##DIV[class="ad-list"]
+busdmm.cloud##.pb10.text-center.bn728-93
 ! 2020/1/10 上午12:20:11 https://www.busdmm.cloud/page/8
 ||www.busdmm.cloud/ads/*.gif$image
+||poweredby.jads.co/adshow.php?adzone=365002
