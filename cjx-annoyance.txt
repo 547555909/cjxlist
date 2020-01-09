@@ -44,6 +44,7 @@
 ###bgframe[style^="position: fixed;"]
 !-----------------------------Union&third-party-------------------------------!
 ||www.javbus.zone/ads/*.gif^$third-party
+||www.busdmm.cloud/ads/*.gif$image
 ||busdmm.cloud/ads/*.gif^$third-party
 ||142904.com^$third-party
 ||86888qp.com^$third-party
