@@ -393,6 +393,7 @@
 ||aixifan.com/static/js/appGuide_
 ||icourse163.org/dwr/call/plaincall/CommonBean.obtain.dwr
 !------------------------Specific element hiding rules------------------------!
+www.busdmm.cloud##DIV[class="ad-list"]
 zhidao.baidu.com##.doodle-container
 baidu.com##.icon-bdad
 5ewin.com##.erweima
